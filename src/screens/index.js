@@ -5,6 +5,8 @@ import Itunes from "../containers/Itunes";
 import Uber from "../containers/Uber";
 import Tinder from "../containers/Tinder";
 
+//hi
+
 const Screens = createStackNavigator({
   Tinder: {
     screen: Tinder,
